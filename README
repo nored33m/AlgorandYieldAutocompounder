@@ -1,2 +1,14 @@
-This is the baseplate Readme, it will be 
-Updated on January 1st.
+# Yield Farming and Auto Compounding
+
+Yield farming is a way to earn passive 
+income by providing liquidity to a 
+decentralized finance platform. 
+
+Auto compounding is a feature that 
+automatically reinvests yield back 
+into the same liquidity pool to 
+increase growth over time. 
+
+This repo is dedicated to the development 
+of an open source auto-compounder for the
+Algorand Blockchain.
