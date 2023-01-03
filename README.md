@@ -29,16 +29,20 @@ This application will be a Teal smart contract deployed to the algorand blockcha
 - Python 3.1
 - PyTeal
 - Beaker
+- React
+- Node.js
+- Algorand Python SDK
+- Algorand Javascript SDK
 
 ## Contributing
 
 Guidelines for submitting pull requests.
 
--Just dont do it, i'm really not entirely sure what i'm doing as it is.
+- Document it super well and as long as it's helpful I'll include it
 
 ## Contributors
 
-nored33m, cannabis, Algorand
+nored33m
 
 ## License
 
