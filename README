@@ -1,24 +1,43 @@
-# Algorand Yield Farming Auto-Compunder
+# Algorand Yield Autocompounder
 
-## What is a yield farmer combobulatamajig?
+This is a Dapp in development as an Algorand Hackathon entry
 
-Yield farming is a way to earn passive 
-income by providing liquidity to a 
-decentralized finance platform. 
+## Table of Contents
 
-Auto compounding is a feature that 
-automatically reinvests yield back 
-into the same liquidity pool to 
-increase growth over time.
+- [Installation](#installation)
+- [Usage](#usage)
+- [Architecture](#architecture)
+- [Dependencies](#dependencies)
+- [Contributing](#contributing)
+- [Contributors](#contributors)
+- [License](#license)
 
-### What will I, nored33m, be attempting to accomplish here?
+## Installation
 
-This repo is dedicated to the development
-of an open source auto-compounder for the
-Algorand Blockchain in response to the Alogrand Hackathon.
+For now the project lives on this repository, once I get the repo more built out I will update this with relevant instructions.
 
-The first step of this development will be to 
-get the most basic functional version of the tool
-possible running, then functionality will be added continuously. 
+## Usage
 
+When implemented this project will present as a web application that interacts with the Algorand blockchain on behalf of the user, the nature of the interaction will be to compound yield farming rewards back into the yield farm automatically.
 
+## Architecture
+
+This application will be a Teal smart contract deployed to the algorand blockchain and using a react front end to interact with users.
+
+## Dependencies
+
+This will be updated l8r brah
+
+## Contributing
+
+Guidelines for submitting pull requests.
+
+-Just dont do it, i'm really not entirely sure what i'm doing as it is.
+
+## Contributors
+
+nored33m, cannabis, Algorand
+
+## License
+
+License to shill, will update with a non-joke soon.
