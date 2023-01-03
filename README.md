@@ -40,4 +40,4 @@ nored33m, cannabis, Algorand
 
 ## License
 
-License to shill, will update with a non-joke soon.
+Apache 2.0
