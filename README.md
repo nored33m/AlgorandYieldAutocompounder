@@ -26,7 +26,9 @@ This application will be a Teal smart contract deployed to the algorand blockcha
 
 ## Dependencies
 
-This will be updated l8r brah
+- Python 3.1
+- pyteal
+- beaker
 
 ## Contributing
 
