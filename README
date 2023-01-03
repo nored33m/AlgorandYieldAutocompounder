@@ -1,4 +1,6 @@
-# Yield Farming and Auto Compounding
+# Algorand Yield Farming Auto-Compunder
+
+## What is a yield farmer combobulatamajig?
 
 Yield farming is a way to earn passive 
 income by providing liquidity to a 
@@ -7,8 +9,16 @@ decentralized finance platform.
 Auto compounding is a feature that 
 automatically reinvests yield back 
 into the same liquidity pool to 
-increase growth over time. 
+increase growth over time.
 
-This repo is dedicated to the development 
+### What will I, nored33m, be attempting to accomplish here?
+
+This repo is dedicated to the development
 of an open source auto-compounder for the
-Algorand Blockchain.
+Algorand Blockchain in response to the Alogrand Hackathon.
+
+The first step of this development will be to 
+get the most basic functional version of the tool
+possible running, then functionality will be added continuously. 
+
+
